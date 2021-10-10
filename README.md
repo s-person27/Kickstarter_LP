@@ -1,0 +1,4 @@
+- Stack: HTML5, SASS, JS.
+- Fully responsive layout was made by using CSS Grid and Flexbox (mobiles, tablets, laptops).
+- Disign of a page ypu could find here: [Figma design](https://www.figma.com/file/Ujp7bCFuvuJlkn8TSbQPSZ/%E2%84%9611-(kickstarter)?node-id=0%3A1).
+- [DEMO LINK](https://s-person27.github.io/Kickstarter/)
